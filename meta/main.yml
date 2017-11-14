@@ -1,7 +1,6 @@
 ---
 galaxy_info:
-  author: franklin
-  company: We Are Interactive
+  author: bpresles
   description: Installs and configures cron
   min_ansible_version: 2.0
   license: MIT
@@ -11,7 +10,7 @@ galaxy_info:
   # this branch. If travis integration is cofigured, only notification for this
   # branch will be accepted. Otherwise, in all cases, the repo's default branch
   # (usually master) will be used.
-  github_branch: master
+  github_branch: docker
   #
   # Below are all platforms currently available. Just uncomment
   # the ones that apply to your role. If you don't see your
